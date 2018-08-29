@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallOpenGLFiles", "InstallOpenGLFiles\InstallOpenGLFiles.csproj", "{CB95DC93-29A7-4356-A542-46B728CF6405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB95DC93-29A7-4356-A542-46B728CF6405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB95DC93-29A7-4356-A542-46B728CF6405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB95DC93-29A7-4356-A542-46B728CF6405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB95DC93-29A7-4356-A542-46B728CF6405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E187C6D0-0DBE-4A12-B61E-0305F0BA72C0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\bin\Debug\InstallOpenGLFiles.exe.config
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\bin\Debug\InstallOpenGLFiles.exe
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\bin\Debug\InstallOpenGLFiles.pdb
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\obj\Debug\InstallOpenGLFiles.csprojAssemblyReference.cache
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\obj\Debug\InstallOpenGLFiles.Form1.resources
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\obj\Debug\InstallOpenGLFiles.Properties.Resources.resources
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\obj\Debug\InstallOpenGLFiles.csproj.GenerateResource.cache
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\obj\Debug\InstallOpenGLFiles.csproj.CoreCompileInputs.cache
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\obj\Debug\InstallOpenGLFiles.exe
+c:\users\zaman\documents\visual studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\obj\Debug\InstallOpenGLFiles.pdb
+C:\Users\Zaman\Documents\Visual Studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\bin\Debug\MaterialSkin.dll
+C:\Users\Zaman\Documents\Visual Studio 2017\Projects\InstallOpenGLFiles\InstallOpenGLFiles\obj\Debug\InstallOpenGLFiles.csproj.CopyComplete
